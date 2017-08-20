@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag5 on Grid Side</title>
-    <link>https://www.example.com/tags/tag5/</link>
+    <link>https://www.lfvalderrama.github.io/tags/tag5/</link>
     <description>Recent content in Tag5 on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Your Name</copyright>
     <lastBuildDate>Sat, 25 Jul 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.example.com/tags/tag5/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lfvalderrama.github.io/tags/tag5/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/eleven/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/eleven/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/eleven/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/eleven/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/nine/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/nine/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/nine/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/nine/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/post/eleven/</link>
+      <link>https://www.lfvalderrama.github.io/post/eleven/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/eleven/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/eleven/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/post/nine/</link>
+      <link>https://www.lfvalderrama.github.io/post/nine/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/nine/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/nine/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     

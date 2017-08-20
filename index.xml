@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grid Side</title>
-    <link>https://www.example.com/</link>
+    <link>https://www.lfvalderrama.github.io/</link>
     <description>Recent content on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Your Name</copyright>
     <lastBuildDate>Wed, 29 Jul 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lfvalderrama.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Video</title>
-      <link>https://www.example.com/customproject/video/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/video/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/video/</guid>
       <description>Videos can be provided via:
 video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot; video_webm = &amp;quot;/vid/vid_480x320.webm&amp;quot; video_ogv = &amp;quot;/vid/vid_480x320.ogv&amp;quot; video_3gp = &amp;quot;/vid/vid_352x288.3gp&amp;quot; video_fallback = &amp;quot;/img/car.jpg&amp;quot;  Each value is optional. If the fallback image is provided, it will be used as both the poster of the video and the fallback if the browser does not support HTML5 video.
 You can use the partial for a video via:
@@ -26,10 +26,10 @@ You can use the partial for a video via:
     
     <item>
       <title>Video</title>
-      <link>https://www.example.com/project/video/</link>
+      <link>https://www.lfvalderrama.github.io/project/video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/video/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/video/</guid>
       <description>Videos can be provided via:
 video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot; video_webm = &amp;quot;/vid/vid_480x320.webm&amp;quot; video_ogv = &amp;quot;/vid/vid_480x320.ogv&amp;quot; video_3gp = &amp;quot;/vid/vid_352x288.3gp&amp;quot; video_fallback = &amp;quot;/img/car.jpg&amp;quot;  Each value is optional. If the fallback image is provided, it will be used as both the poster of the video and the fallback if the browser does not support HTML5 video.
 You can use the partial for a video via:
@@ -38,685 +38,685 @@ You can use the partial for a video via:
     
     <item>
       <title>Info</title>
-      <link>https://www.example.com/custompost/info/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/info/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/info/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/info/</guid>
       <description>You can optionally set an image in the front matter of a post using image = &amp;quot;...&amp;quot;.</description>
     </item>
     
     <item>
       <title>Info</title>
-      <link>https://www.example.com/post/info/</link>
+      <link>https://www.lfvalderrama.github.io/post/info/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/info/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/info/</guid>
       <description>You can optionally set an image in the front matter of a post using image = &amp;quot;...&amp;quot;.</description>
     </item>
     
     <item>
       <title>Redirect</title>
-      <link>https://www.example.com/custompost/redirect/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/redirect/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/redirect/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/redirect/</guid>
       <description>You can optionally set the front matter redirect = &amp;quot;url&amp;quot; to automatically redirect the content to another page.</description>
     </item>
     
     <item>
       <title>Redirect</title>
-      <link>https://www.example.com/post/redirect/</link>
+      <link>https://www.lfvalderrama.github.io/post/redirect/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/redirect/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/redirect/</guid>
       <description>You can optionally set the front matter redirect = &amp;quot;url&amp;quot; to automatically redirect the content to another page.</description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/customgallery/anothercar/</link>
+      <link>https://www.lfvalderrama.github.io/customgallery/anothercar/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customgallery/anothercar/</guid>
+      <guid>https://www.lfvalderrama.github.io/customgallery/anothercar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/customgallery/anothercup/</link>
+      <link>https://www.lfvalderrama.github.io/customgallery/anothercup/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customgallery/anothercup/</guid>
+      <guid>https://www.lfvalderrama.github.io/customgallery/anothercup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/customgallery/anotherdrone/</link>
+      <link>https://www.lfvalderrama.github.io/customgallery/anotherdrone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customgallery/anotherdrone/</guid>
+      <guid>https://www.lfvalderrama.github.io/customgallery/anotherdrone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/customgallery/anotherfood/</link>
+      <link>https://www.lfvalderrama.github.io/customgallery/anotherfood/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customgallery/anotherfood/</guid>
+      <guid>https://www.lfvalderrama.github.io/customgallery/anotherfood/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/customgallery/anotherjars/</link>
+      <link>https://www.lfvalderrama.github.io/customgallery/anotherjars/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customgallery/anotherjars/</guid>
+      <guid>https://www.lfvalderrama.github.io/customgallery/anotherjars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/customgallery/anotherphone/</link>
+      <link>https://www.lfvalderrama.github.io/customgallery/anotherphone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customgallery/anotherphone/</guid>
+      <guid>https://www.lfvalderrama.github.io/customgallery/anotherphone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/customgallery/car/</link>
+      <link>https://www.lfvalderrama.github.io/customgallery/car/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customgallery/car/</guid>
+      <guid>https://www.lfvalderrama.github.io/customgallery/car/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/customgallery/cup/</link>
+      <link>https://www.lfvalderrama.github.io/customgallery/cup/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customgallery/cup/</guid>
+      <guid>https://www.lfvalderrama.github.io/customgallery/cup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/customgallery/drone/</link>
+      <link>https://www.lfvalderrama.github.io/customgallery/drone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customgallery/drone/</guid>
+      <guid>https://www.lfvalderrama.github.io/customgallery/drone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/customgallery/food/</link>
+      <link>https://www.lfvalderrama.github.io/customgallery/food/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customgallery/food/</guid>
+      <guid>https://www.lfvalderrama.github.io/customgallery/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/customgallery/jars/</link>
+      <link>https://www.lfvalderrama.github.io/customgallery/jars/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customgallery/jars/</guid>
+      <guid>https://www.lfvalderrama.github.io/customgallery/jars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/customgallery/phone/</link>
+      <link>https://www.lfvalderrama.github.io/customgallery/phone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customgallery/phone/</guid>
+      <guid>https://www.lfvalderrama.github.io/customgallery/phone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/anothercar/</link>
+      <link>https://www.lfvalderrama.github.io/gallery/anothercar/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/anothercar/</guid>
+      <guid>https://www.lfvalderrama.github.io/gallery/anothercar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/anothercup/</link>
+      <link>https://www.lfvalderrama.github.io/gallery/anothercup/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/anothercup/</guid>
+      <guid>https://www.lfvalderrama.github.io/gallery/anothercup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/anotherdrone/</link>
+      <link>https://www.lfvalderrama.github.io/gallery/anotherdrone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/anotherdrone/</guid>
+      <guid>https://www.lfvalderrama.github.io/gallery/anotherdrone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/anotherfood/</link>
+      <link>https://www.lfvalderrama.github.io/gallery/anotherfood/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/anotherfood/</guid>
+      <guid>https://www.lfvalderrama.github.io/gallery/anotherfood/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/anotherjars/</link>
+      <link>https://www.lfvalderrama.github.io/gallery/anotherjars/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/anotherjars/</guid>
+      <guid>https://www.lfvalderrama.github.io/gallery/anotherjars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/anotherphone/</link>
+      <link>https://www.lfvalderrama.github.io/gallery/anotherphone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/anotherphone/</guid>
+      <guid>https://www.lfvalderrama.github.io/gallery/anotherphone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/car/</link>
+      <link>https://www.lfvalderrama.github.io/gallery/car/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/car/</guid>
+      <guid>https://www.lfvalderrama.github.io/gallery/car/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/cup/</link>
+      <link>https://www.lfvalderrama.github.io/gallery/cup/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/cup/</guid>
+      <guid>https://www.lfvalderrama.github.io/gallery/cup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/drone/</link>
+      <link>https://www.lfvalderrama.github.io/gallery/drone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/drone/</guid>
+      <guid>https://www.lfvalderrama.github.io/gallery/drone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/food/</link>
+      <link>https://www.lfvalderrama.github.io/gallery/food/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/food/</guid>
+      <guid>https://www.lfvalderrama.github.io/gallery/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/jars/</link>
+      <link>https://www.lfvalderrama.github.io/gallery/jars/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/jars/</guid>
+      <guid>https://www.lfvalderrama.github.io/gallery/jars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.example.com/gallery/phone/</link>
+      <link>https://www.lfvalderrama.github.io/gallery/phone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/gallery/phone/</guid>
+      <guid>https://www.lfvalderrama.github.io/gallery/phone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/eight/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/eight/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/eight/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/eight/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/eleven/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/eleven/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/eleven/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/eleven/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/five/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/five/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/five/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/five/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/four/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/four/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/four/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/four/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/nine/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/nine/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/nine/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/nine/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/one/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/one/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/one/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/one/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/seven/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/seven/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/seven/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/seven/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/six/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/six/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/six/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/six/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/ten/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/ten/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/ten/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/ten/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/three/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/three/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/three/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/three/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/twelve/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/twelve/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/twelve/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/twelve/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/two/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/two/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/two/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/two/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/post/eight/</link>
+      <link>https://www.lfvalderrama.github.io/post/eight/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/eight/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/eight/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/post/eleven/</link>
+      <link>https://www.lfvalderrama.github.io/post/eleven/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/eleven/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/eleven/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/post/five/</link>
+      <link>https://www.lfvalderrama.github.io/post/five/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/five/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/five/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/post/four/</link>
+      <link>https://www.lfvalderrama.github.io/post/four/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/four/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/four/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/post/nine/</link>
+      <link>https://www.lfvalderrama.github.io/post/nine/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/nine/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/nine/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/post/one/</link>
+      <link>https://www.lfvalderrama.github.io/post/one/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/one/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/one/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/post/seven/</link>
+      <link>https://www.lfvalderrama.github.io/post/seven/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/seven/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/seven/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/post/six/</link>
+      <link>https://www.lfvalderrama.github.io/post/six/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/six/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/six/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/post/ten/</link>
+      <link>https://www.lfvalderrama.github.io/post/ten/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/ten/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/ten/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/post/three/</link>
+      <link>https://www.lfvalderrama.github.io/post/three/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/three/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/three/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/post/twelve/</link>
+      <link>https://www.lfvalderrama.github.io/post/twelve/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/twelve/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/twelve/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/post/two/</link>
+      <link>https://www.lfvalderrama.github.io/post/two/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/two/</guid>
+      <guid>https://www.lfvalderrama.github.io/post/two/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>Another Car</title>
-      <link>https://www.example.com/customproject/anothercar/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/anothercar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/anothercar/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/anothercar/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Another Car</title>
-      <link>https://www.example.com/project/anothercar/</link>
+      <link>https://www.lfvalderrama.github.io/project/anothercar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/anothercar/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/anothercar/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Another Cup</title>
-      <link>https://www.example.com/customproject/anothercup/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/anothercup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/anothercup/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/anothercup/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Another Cup</title>
-      <link>https://www.example.com/project/anothercup/</link>
+      <link>https://www.lfvalderrama.github.io/project/anothercup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/anothercup/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/anothercup/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Car</title>
-      <link>https://www.example.com/customproject/car/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/car/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/car/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Car</title>
-      <link>https://www.example.com/project/car/</link>
+      <link>https://www.lfvalderrama.github.io/project/car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/car/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/car/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Cup</title>
-      <link>https://www.example.com/customproject/cup/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/cup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/cup/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/cup/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Cup</title>
-      <link>https://www.example.com/project/cup/</link>
+      <link>https://www.lfvalderrama.github.io/project/cup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/cup/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/cup/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Drone</title>
-      <link>https://www.example.com/customproject/anotherdrone/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/anotherdrone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/anotherdrone/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/anotherdrone/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Drone</title>
-      <link>https://www.example.com/customproject/drone/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/drone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/drone/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/drone/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Drone</title>
-      <link>https://www.example.com/project/anotherdrone/</link>
+      <link>https://www.lfvalderrama.github.io/project/anotherdrone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/anotherdrone/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/anotherdrone/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Drone</title>
-      <link>https://www.example.com/project/drone/</link>
+      <link>https://www.lfvalderrama.github.io/project/drone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/drone/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/drone/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>https://www.example.com/customproject/anotherfood/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/anotherfood/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/anotherfood/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/anotherfood/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>https://www.example.com/customproject/food/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/food/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/food/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>https://www.example.com/project/anotherfood/</link>
+      <link>https://www.lfvalderrama.github.io/project/anotherfood/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/anotherfood/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/anotherfood/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>https://www.example.com/project/food/</link>
+      <link>https://www.lfvalderrama.github.io/project/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/food/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/food/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Jars</title>
-      <link>https://www.example.com/customproject/anotherjars/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/anotherjars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/anotherjars/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/anotherjars/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Jars</title>
-      <link>https://www.example.com/customproject/jars/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/jars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/jars/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/jars/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Jars</title>
-      <link>https://www.example.com/project/anotherjars/</link>
+      <link>https://www.lfvalderrama.github.io/project/anotherjars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/anotherjars/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/anotherjars/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Jars</title>
-      <link>https://www.example.com/project/jars/</link>
+      <link>https://www.lfvalderrama.github.io/project/jars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/jars/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/jars/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Phone</title>
-      <link>https://www.example.com/customproject/anotherphone/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/anotherphone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/anotherphone/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/anotherphone/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Phone</title>
-      <link>https://www.example.com/customproject/phone/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/phone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/phone/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/phone/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Phone</title>
-      <link>https://www.example.com/project/anotherphone/</link>
+      <link>https://www.lfvalderrama.github.io/project/anotherphone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/anotherphone/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/anotherphone/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Phone</title>
-      <link>https://www.example.com/project/phone/</link>
+      <link>https://www.lfvalderrama.github.io/project/phone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/phone/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/phone/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     

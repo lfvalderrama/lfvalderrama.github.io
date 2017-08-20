@@ -2,139 +2,139 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Customposts on Grid Side</title>
-    <link>https://www.example.com/custompost/</link>
+    <link>https://www.lfvalderrama.github.io/custompost/</link>
     <description>Recent content in Customposts on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Your Name</copyright>
     <lastBuildDate>Wed, 29 Jul 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.example.com/custompost/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lfvalderrama.github.io/custompost/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Info</title>
-      <link>https://www.example.com/custompost/info/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/info/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/info/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/info/</guid>
       <description>You can optionally set an image in the front matter of a post using image = &amp;quot;...&amp;quot;.</description>
     </item>
     
     <item>
       <title>Redirect</title>
-      <link>https://www.example.com/custompost/redirect/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/redirect/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/redirect/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/redirect/</guid>
       <description>You can optionally set the front matter redirect = &amp;quot;url&amp;quot; to automatically redirect the content to another page.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/eight/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/eight/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/eight/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/eight/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/eleven/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/eleven/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/eleven/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/eleven/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/five/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/five/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/five/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/five/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/four/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/four/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/four/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/four/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/nine/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/nine/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/nine/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/nine/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/one/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/one/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/one/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/one/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/seven/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/seven/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/seven/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/seven/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/six/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/six/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/six/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/six/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/ten/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/ten/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/ten/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/ten/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/three/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/three/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/three/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/three/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/twelve/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/twelve/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/twelve/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/twelve/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://www.example.com/custompost/two/</link>
+      <link>https://www.lfvalderrama.github.io/custompost/two/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/custompost/two/</guid>
+      <guid>https://www.lfvalderrama.github.io/custompost/two/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     

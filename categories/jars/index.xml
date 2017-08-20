@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jars on Grid Side</title>
-    <link>https://www.example.com/categories/jars/</link>
+    <link>https://www.lfvalderrama.github.io/categories/jars/</link>
     <description>Recent content in Jars on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Your Name</copyright>
     
-	<atom:link href="https://www.example.com/categories/jars/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lfvalderrama.github.io/categories/jars/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jars</title>
-      <link>https://www.example.com/customproject/anotherjars/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/anotherjars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/anotherjars/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/anotherjars/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Jars</title>
-      <link>https://www.example.com/customproject/jars/</link>
+      <link>https://www.lfvalderrama.github.io/customproject/jars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/customproject/jars/</guid>
+      <guid>https://www.lfvalderrama.github.io/customproject/jars/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Jars</title>
-      <link>https://www.example.com/project/anotherjars/</link>
+      <link>https://www.lfvalderrama.github.io/project/anotherjars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/anotherjars/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/anotherjars/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Jars</title>
-      <link>https://www.example.com/project/jars/</link>
+      <link>https://www.lfvalderrama.github.io/project/jars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/jars/</guid>
+      <guid>https://www.lfvalderrama.github.io/project/jars/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
