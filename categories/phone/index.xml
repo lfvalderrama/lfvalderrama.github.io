@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phone on Grid Side</title>
-    <link>https://www.lfvalderrama.github.io/categories/phone/</link>
+    <link>https://lfvalderrama.github.io/categories/phone/</link>
     <description>Recent content in Phone on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Your Name</copyright>
     
-	<atom:link href="https://www.lfvalderrama.github.io/categories/phone/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lfvalderrama.github.io/categories/phone/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Phone</title>
-      <link>https://www.lfvalderrama.github.io/customproject/anotherphone/</link>
+      <link>https://lfvalderrama.github.io/customproject/anotherphone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/customproject/anotherphone/</guid>
+      <guid>https://lfvalderrama.github.io/customproject/anotherphone/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Phone</title>
-      <link>https://www.lfvalderrama.github.io/customproject/phone/</link>
+      <link>https://lfvalderrama.github.io/customproject/phone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/customproject/phone/</guid>
+      <guid>https://lfvalderrama.github.io/customproject/phone/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Phone</title>
-      <link>https://www.lfvalderrama.github.io/project/anotherphone/</link>
+      <link>https://lfvalderrama.github.io/project/anotherphone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/project/anotherphone/</guid>
+      <guid>https://lfvalderrama.github.io/project/anotherphone/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     
     <item>
       <title>Phone</title>
-      <link>https://www.lfvalderrama.github.io/project/phone/</link>
+      <link>https://lfvalderrama.github.io/project/phone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/project/phone/</guid>
+      <guid>https://lfvalderrama.github.io/project/phone/</guid>
       <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
     </item>
     

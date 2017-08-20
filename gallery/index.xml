@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galleries on Grid Side</title>
-    <link>https://www.lfvalderrama.github.io/gallery/</link>
+    <link>https://lfvalderrama.github.io/gallery/</link>
     <description>Recent content in Galleries on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Your Name</copyright>
     <lastBuildDate>Wed, 29 Jul 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.lfvalderrama.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lfvalderrama.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>This is the title</title>
-      <link>https://www.lfvalderrama.github.io/gallery/anothercar/</link>
+      <link>https://lfvalderrama.github.io/gallery/anothercar/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/gallery/anothercar/</guid>
+      <guid>https://lfvalderrama.github.io/gallery/anothercar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.lfvalderrama.github.io/gallery/anothercup/</link>
+      <link>https://lfvalderrama.github.io/gallery/anothercup/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/gallery/anothercup/</guid>
+      <guid>https://lfvalderrama.github.io/gallery/anothercup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.lfvalderrama.github.io/gallery/anotherdrone/</link>
+      <link>https://lfvalderrama.github.io/gallery/anotherdrone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/gallery/anotherdrone/</guid>
+      <guid>https://lfvalderrama.github.io/gallery/anotherdrone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.lfvalderrama.github.io/gallery/anotherfood/</link>
+      <link>https://lfvalderrama.github.io/gallery/anotherfood/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/gallery/anotherfood/</guid>
+      <guid>https://lfvalderrama.github.io/gallery/anotherfood/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.lfvalderrama.github.io/gallery/anotherjars/</link>
+      <link>https://lfvalderrama.github.io/gallery/anotherjars/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/gallery/anotherjars/</guid>
+      <guid>https://lfvalderrama.github.io/gallery/anotherjars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.lfvalderrama.github.io/gallery/anotherphone/</link>
+      <link>https://lfvalderrama.github.io/gallery/anotherphone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/gallery/anotherphone/</guid>
+      <guid>https://lfvalderrama.github.io/gallery/anotherphone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.lfvalderrama.github.io/gallery/car/</link>
+      <link>https://lfvalderrama.github.io/gallery/car/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/gallery/car/</guid>
+      <guid>https://lfvalderrama.github.io/gallery/car/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.lfvalderrama.github.io/gallery/cup/</link>
+      <link>https://lfvalderrama.github.io/gallery/cup/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/gallery/cup/</guid>
+      <guid>https://lfvalderrama.github.io/gallery/cup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.lfvalderrama.github.io/gallery/drone/</link>
+      <link>https://lfvalderrama.github.io/gallery/drone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/gallery/drone/</guid>
+      <guid>https://lfvalderrama.github.io/gallery/drone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.lfvalderrama.github.io/gallery/food/</link>
+      <link>https://lfvalderrama.github.io/gallery/food/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/gallery/food/</guid>
+      <guid>https://lfvalderrama.github.io/gallery/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.lfvalderrama.github.io/gallery/jars/</link>
+      <link>https://lfvalderrama.github.io/gallery/jars/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/gallery/jars/</guid>
+      <guid>https://lfvalderrama.github.io/gallery/jars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>https://www.lfvalderrama.github.io/gallery/phone/</link>
+      <link>https://lfvalderrama.github.io/gallery/phone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/gallery/phone/</guid>
+      <guid>https://lfvalderrama.github.io/gallery/phone/</guid>
       <description></description>
     </item>
     

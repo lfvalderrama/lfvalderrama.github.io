@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag1 on Grid Side</title>
-    <link>https://www.lfvalderrama.github.io/tags/tag1/</link>
+    <link>https://lfvalderrama.github.io/tags/tag1/</link>
     <description>Recent content in Tag1 on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Your Name</copyright>
     <lastBuildDate>Wed, 29 Jul 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.lfvalderrama.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lfvalderrama.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Info</title>
-      <link>https://www.lfvalderrama.github.io/custompost/info/</link>
+      <link>https://lfvalderrama.github.io/custompost/info/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/custompost/info/</guid>
+      <guid>https://lfvalderrama.github.io/custompost/info/</guid>
       <description>You can optionally set an image in the front matter of a post using image = &amp;quot;...&amp;quot;.</description>
     </item>
     
     <item>
       <title>Info</title>
-      <link>https://www.lfvalderrama.github.io/post/info/</link>
+      <link>https://lfvalderrama.github.io/post/info/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/post/info/</guid>
+      <guid>https://lfvalderrama.github.io/post/info/</guid>
       <description>You can optionally set an image in the front matter of a post using image = &amp;quot;...&amp;quot;.</description>
     </item>
     
     <item>
       <title>Redirect</title>
-      <link>https://www.lfvalderrama.github.io/custompost/redirect/</link>
+      <link>https://lfvalderrama.github.io/custompost/redirect/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/custompost/redirect/</guid>
+      <guid>https://lfvalderrama.github.io/custompost/redirect/</guid>
       <description>You can optionally set the front matter redirect = &amp;quot;url&amp;quot; to automatically redirect the content to another page.</description>
     </item>
     
     <item>
       <title>Redirect</title>
-      <link>https://www.lfvalderrama.github.io/post/redirect/</link>
+      <link>https://lfvalderrama.github.io/post/redirect/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lfvalderrama.github.io/post/redirect/</guid>
+      <guid>https://lfvalderrama.github.io/post/redirect/</guid>
       <description>You can optionally set the front matter redirect = &amp;quot;url&amp;quot; to automatically redirect the content to another page.</description>
     </item>
     
