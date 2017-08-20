@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.example.com/customproject/video/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/video/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/info/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/info/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/redirect/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/redirect/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customgallery/anothercar/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customgallery/anothercup/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customgallery/anotherdrone/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customgallery/anotherfood/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customgallery/anotherjars/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customgallery/anotherphone/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customgallery/car/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customgallery/cup/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customgallery/drone/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customgallery/food/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customgallery/jars/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customgallery/phone/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/gallery/anothercar/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/gallery/anothercup/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/gallery/anotherdrone/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/gallery/anotherfood/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/gallery/anotherjars/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/gallery/anotherphone/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/gallery/car/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/gallery/cup/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/gallery/drone/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/gallery/food/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/gallery/jars/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/gallery/phone/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/eight/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/eleven/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/five/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/four/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/nine/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/one/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/seven/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/six/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/ten/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/three/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/twelve/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/two/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/eight/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/eleven/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/five/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/four/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/nine/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/one/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/seven/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/six/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/ten/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/three/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/twelve/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/two/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/a-tag-with-spaces/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customproject/anothercar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/anothercar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customproject/anothercup/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/anothercup/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/another-tag/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/car/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customproject/car/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/car/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/category1/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/category2/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/category3/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/cup/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customproject/cup/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/cup/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customgallery/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/custompost/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customproject/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/drone/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customproject/anotherdrone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customproject/drone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/anotherdrone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/drone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/food/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customproject/anotherfood/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customproject/food/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/anotherfood/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/food/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/gallery/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/jars/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customproject/anotherjars/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customproject/jars/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/anotherjars/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/jars/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/much-animation/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/phone/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customproject/anotherphone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/customproject/phone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/anotherphone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/phone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/such-move/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/tag1/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/tag2/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/tag3/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/tag4/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/tag5/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/very-html5/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/video/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/wow/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

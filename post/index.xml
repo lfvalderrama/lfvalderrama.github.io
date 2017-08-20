@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Grid Side</title>
+    <link>https://www.example.com/post/</link>
+    <description>Recent content in Posts on Grid Side</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Your Name</copyright>
+    <lastBuildDate>Wed, 29 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Info</title>
+      <link>https://www.example.com/post/info/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/post/info/</guid>
+      <description>You can optionally set an image in the front matter of a post using image = &amp;quot;...&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Redirect</title>
+      <link>https://www.example.com/post/redirect/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/post/redirect/</guid>
+      <description>You can optionally set the front matter redirect = &amp;quot;url&amp;quot; to automatically redirect the content to another page.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://www.example.com/post/eight/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/post/eight/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://www.example.com/post/eleven/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/post/eleven/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://www.example.com/post/five/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/post/five/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://www.example.com/post/four/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/post/four/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://www.example.com/post/nine/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/post/nine/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://www.example.com/post/one/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/post/one/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://www.example.com/post/seven/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/post/seven/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://www.example.com/post/six/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/post/six/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://www.example.com/post/ten/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/post/ten/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://www.example.com/post/three/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/post/three/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://www.example.com/post/twelve/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/post/twelve/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://www.example.com/post/two/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/post/two/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+    </item>
+    
+  </channel>
+</rss>
